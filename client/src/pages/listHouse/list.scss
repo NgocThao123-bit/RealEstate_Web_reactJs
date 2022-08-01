@@ -1,0 +1,16 @@
+.list {
+  display: flex;
+  // width: 100%;
+  background: url('https://images.pexels.com/photos/259915/pexels-photo-259915.jpeg');
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  .listContainer {
+    flex: 3;
+  }
+
+  .datatable {
+    margin: 30px;
+  }
+}
